@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "aaron-bond.better-comments",
+    "naumovs.color-highlight",
+    "pkief.material-icon-theme",
+    "monokai.theme-monokai-pro-vscode"
+  ]
+}
